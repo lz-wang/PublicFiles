@@ -1,7 +1,7 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Vim-Plug list
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-call plug#begin('~/.local/share/nvim/site/autoload/plug.vim')
+call plug#begin()
 
 Plug 'Yggdroot/indentLine'            " 缩进虚线显示
 Plug 'crusoexia/vim-monokai'          " monokai主题
